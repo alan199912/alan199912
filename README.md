@@ -5,7 +5,7 @@
 
 - JavaScript | Python
 
-- Interested in data-related projects
+- Interested in frontend, backend and data-related projects
 
 - Blockchain/web3 enthusiast
 
