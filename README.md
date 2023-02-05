@@ -7,8 +7,6 @@
 
 - Interested in frontend, backend and data-related projects
 
-- Blockchain/web3 enthusiast
-
 - Buenos Aires, Argentina
 
 <!-- - My [Resume](https://drive.google.com/) -->
