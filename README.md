@@ -20,12 +20,12 @@
   <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/angular.svg" alt="materialui" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/symfony/symfony-plain.svg" alt="symfony" width="40" height="40"/> -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/symfony.svg" alt="symfony" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
 <img alt="Isa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
