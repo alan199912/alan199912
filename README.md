@@ -6,6 +6,13 @@
 - Full-stack dev (JS/TS, Angular/Next, Node) enfocado hoy en **Ethereum**: Solidity + seguridad + UX de pagos.
 - Buenos Aires, Argentina.
 
+### 🌐 Web3 Focus
+- Stack: Solidity · OpenZeppelin · Hardhat/Foundry · Ethers.js/Viem · Safe · Etherscan · Sepolia
+- Intereses: DeFi (checkout/tokenización), DAOs (governance), seguridad (multisig, roles, pausas).
+
+### 🧱 Proof of Work
+- **Safe (multisig) en testnet:** `0x7436210baB37BdDCD9aAb44E866a076e7d2a0d13` (Sepolia) → [Ver en app.safe.global](https://app.safe.global/home?safe=sep:0x7436210baB37BdDCD9aAb44E866a076e7d2a0d13)
+
 <!-- - My [Resume](https://drive.google.com/) -->
 
 ### &nbsp;My Tech Stack
