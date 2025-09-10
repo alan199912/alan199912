@@ -12,6 +12,7 @@
 
 ### 🧱 Proof of Work
 - **Safe (multisig) en testnet:** `0x7436210baB37BdDCD9aAb44E866a076e7d2a0d13` (Sepolia) → [Ver en app.safe.global](https://app.safe.global/home?safe=sep:0x7436210baB37BdDCD9aAb44E866a076e7d2a0d13)
+- **Tx de prueba 2/2 (envío sETH):** `0xa9e21e700a1b523ad189871ad053e485b7ffbf46569ce48b9bcc971fe2269a2a` → [Ver en Etherscan](https://sepolia.etherscan.io/tx/0xa9e21e700a1b523ad189871ad053e485b7ffbf46569ce48b9bcc971fe2269a2a)
 
 <!-- - My [Resume](https://drive.google.com/) -->
 
