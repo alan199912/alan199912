@@ -1,13 +1,10 @@
 <h1 align="center">Alan Marcelo Di Masi</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Ethereum / Web3 Developer (Full-Stack background)</h3>
 
 ### &nbsp;About Me
 
-- JavaScript | Python
-
-- Interested in frontend, backend and data-related projects
-
-- Buenos Aires, Argentina
+- Full-stack dev (JS/TS, Angular/Next, Node) enfocado hoy en **Ethereum**: Solidity + seguridad + UX de pagos.
+- Buenos Aires, Argentina.
 
 <!-- - My [Resume](https://drive.google.com/) -->
 
